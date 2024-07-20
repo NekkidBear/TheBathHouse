@@ -66,9 +66,9 @@
   <ItemGroup>
     <Compile Include="Assets/scripts/playerStats.cs" />
     <Compile Include="Assets/scripts/dungeonGenerator.cs" />
-    <Compile Include="Assets/scripts/dyanamicSpritesheetAnimator.cs" />
     <Compile Include="Assets/scripts/characterAnimator.cs" />
     <Compile Include="Assets/scripts/enemy.cs" />
+    <Compile Include="Assets/scripts/dynamicSpritesheetAnimator.cs" />
     <Compile Include="Assets/scripts/mapScroll.cs" />
     <Compile Include="Assets/scripts/goodNPC.cs" />
     <Compile Include="Assets/scripts/minimap.cs" />
