@@ -19,6 +19,7 @@ Thumbs.db
 *.suo
 *.sln.docstates
 *.sln.ide
+*.code-workspace
 
 # Unity #
 #########
